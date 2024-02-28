@@ -1,1 +1,1 @@
-console.log("XSS Injected");
+alert("NJ Anjay");
