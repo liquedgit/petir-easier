@@ -1,1 +1,1 @@
-console.log(bypassed);
+console.log("XSS Injected");
